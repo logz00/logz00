@@ -3,8 +3,10 @@
 # Hey, I'm Logan 👋
 
 **CyberSec Student • Learning Developer • Gamer • Christian**
-**Discord: logszz**
-**Spotify: https://open.spotify.com/user/logan1665?si=f833ee48564e4978 **
+
+**Discord:** logszz
+
+**Spotify:** [logan1665](https://open.spotify.com/user/logan1665?si=f833ee48564e4978)
 
 ---
 
@@ -31,8 +33,8 @@
 ### 💻 Setup
 
 > Windows 11 || PC Specs: Ryzen 7 5800X - RTX 5060 - 32gb RAM
-
 > Software || PyCharm - VS Code
+
 ---
 
 <div align="center">
