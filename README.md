@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**logz00/logz00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Logan 👋
 
-Here are some ideas to get you started:
+**CyberSec Student • Learning Developer • Gamer • Christian**
+**Discord: logszz**
+**Spotify: https://open.spotify.com/user/logan1665?si=f833ee48564e4978 **
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/Learning_C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](#)
+
+</div>
+
+---
+
+### 🔭 What I'm Working On
+
+- Building an App for my church — A React Native (Expo) mobile app for group Bible study, built with TypeScript
+- Coursework in **Python** and **SQL/Databases** as part of my Cybersecurity Schooling
+- Currently learning **C++ as well as improving my Python**
+
+### 🎮 Gaming
+
+- 🚀 Rocket League
+- 🌍 GeoGuessr
+- 🔫 CS2
+- ⛏️ Minecraft
+
+### 💻 Setup
+
+> Windows 11 || PC Specs: Ryzen 7 5800X - RTX 5060 - 32gb RAM
+
+> Software || PyCharm - VS Code
+---
+
+<div align="center">
+
+*"Whatever you do, work at it with all your heart, as working for the Lord."*
+— Colossians 3:23
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
+
+</div>
