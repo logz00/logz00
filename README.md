@@ -22,6 +22,7 @@
 - Building an App for my church — A React Native (Expo) mobile app for group Bible study, built with TypeScript
 - Coursework in **Python** and **SQL/Databases** as part of my Cybersecurity Schooling
 - Currently learning **C++ as well as improving my Python**
+- Currently learning **Russian
 
 ### 🎮 Games I Play
 
