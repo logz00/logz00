@@ -33,7 +33,8 @@
 ### 💻 Setup
 
 > Windows 11 || PC Specs: Ryzen 7 5800X - RTX 5060 - 32gb RAM
-> Software || PyCharm - VS Code
+
+> Software || PyCharm - VS Code - Obsidian
 
 ---
 
